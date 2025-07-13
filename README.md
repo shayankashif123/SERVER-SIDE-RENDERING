@@ -41,10 +41,10 @@ Blog data is stored in MongoDB, and API routes built with the new `app/api` patt
 
 ## 🛠️ Tech Stack
 
-- **Framework**: [Next.js (App Router)](https://nextjs.org/docs/app)
-- **Database**: [MongoDB](https://www.mongodb.com/)
+- **Framework**: [Next.js (App Router)]
+- **Database**: [MongoDB]
 - **API Layer**: Next.js `app/api` route handlers
-- **Styling**: Tailwind CSS *(optional)*
-- **Language**: TypeScript or JavaScript (based on your setup)
+- **Styling**: Tailwind CSS
+- **Language**: JavaScript
 
 ---
